@@ -8,3 +8,5 @@ server(API).py: consists of a python script to call an API, and predetermined de
 Qwen_2.5_3B_AWQ_prompt(proper): Notebook containing the entire python script for the KMA.
 
 Extracted_metrics(KMA): Notebook containing the extracted metrics output from the KMA.
+
+Credits: The main project initiation and proposals are done by Al Margeret waskov in collaboration with ASPECT unit. Credits to Al Margeret Waskov & Yasar Khan for guiding me throught this process.
